@@ -1,4 +1,4 @@
-first_app2
+Taji's Second App Attempt
 ==========
 
 Ruby On Rails Second Attempt At Git
